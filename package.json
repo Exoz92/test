@@ -12,7 +12,8 @@
   "description": "contenedor para proyecto",
   "main": "index.html",
   "scripts": {
-    "dev": "lite-server"
+    "dev": "lite-server",
+    "dev2":""
   },
   "repository": {
     "type": "git",
