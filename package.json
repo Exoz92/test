@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "popper": "^1.0.1"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "description": "contenedor para proyecto",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exoz92/test.git"
+  },
+  "author": "Nahuel Del Capellan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exoz92/test/issues"
+  },
+  "homepage": "https://github.com/Exoz92/test#readme"
+}
