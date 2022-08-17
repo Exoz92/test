@@ -3,6 +3,8 @@
     "lite-server": "^2.6.1"
   },
   "dependencies": {
+    "bootstrap": "^5.2.0",
+    "jquery": "^3.6.0",
     "popper": "^1.0.1"
   },
   "name": "test",
